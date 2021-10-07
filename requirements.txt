@@ -1,0 +1,68 @@
+## Python code formate
+black
+
+## Responsive web app
+lona 
+
+## Base django project and PostgreSql DB
+django
+pillow
+psycopg2-binary
+
+## More packages
+django-autoslug
+django-utils-six
+django-imagekit
+django-embed-video
+
+## Admin refonte
+django-baton
+django-jazzmin
+django-admin-interface
+
+## TinyMCE HTMLField
+django-tinymce4-lite
+django-filebrowser-no-grappelli
+
+## Rest API
+djangorestframework
+django-cors-headers
+drf_yasg2
+
+## Scraping
+bs4
+requests
+apscheduler
+
+## GraphQL API
+graphene-django
+django-graphiql
+django-filter
+graphene-django-cud
+
+## Elasticsearch
+elasticsearch
+elasticsearch-dsl
+django-elasticsearch-dsl
+
+## Deploiement
+gunicorn
+whitenoise
+django-brotli
+
+## Cloud for media
+cloudinary==1.24.0
+django-cloudinary-storage
+
+## Chat
+channels
+daphne
+
+## Mobile
+kivy
+kivymd
+Cython
+jnius
+plyer
+buildozer
+orm
