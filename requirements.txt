@@ -1,4 +1,7 @@
 ## Python code formate
+flake8
+mypy
+isort
 black
 
 ## Responsive web app
@@ -9,11 +12,18 @@ django
 pillow
 psycopg2-binary
 
+## Base Flask project and orm package
+Flask
+SQLAlchemy
+Flask-SQLAlchemy
+
 ## More packages
 django-autoslug
 django-utils-six
 django-imagekit
 django-embed-video
+random-username
+django-better-admin-arrayfield
 
 ## Admin refonte
 django-baton
@@ -31,8 +41,12 @@ drf_yasg2
 
 ## Scraping
 bs4
+cssutils
 requests
 apscheduler
+
+selenium
+webdriver-manager
 
 ## GraphQL API
 graphene-django
@@ -61,8 +75,28 @@ daphne
 ## Mobile
 kivy
 kivymd
+kivg
 Cython
 jnius
 plyer
 buildozer
 orm
+kivytransitions
+
+# Test
+pytest
+pytest-cov
+coverage
+
+# Archive
+patool
+pyunpack
+
+# pip
+twine
+
+# Desktop
+PyQt5
+
+# Build
+auto_py_to_exe
